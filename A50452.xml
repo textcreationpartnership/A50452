@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious debate, and general concern, relating to health and sickness. By E.M. Med. D.</title>
+            <author>Maynwaringe, Everard, 1628-1699?</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50452</idno><idno type="EEBO-CITATION">99826367</idno>
+  <idno type="VID">30769</idno>
+  <idno type="EEBO-PROQUEST">2240922208</idno>
+  
+            <idno type="STC">Wing M1512A</idno>
+            <idno type="STC">ESTC R214158</idno>
+            <idno type="PROQUEST">99826367</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826367e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1764:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious debate, and general concern, relating to health and sickness. By E.M. Med. D.</title>
+                  <author>Maynwaringe, Everard, 1628-1699?</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second impression with a postscript.</edition>
+               </editionStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Basset, at the George in Fleetstreet; and Thomas Horne, at the south-entrance of the Royal-Exchange,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: E. Maynwaringe.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Health --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30769:1"/>
+            <head>A Serious Debate, and General Concern, RELATING TO HEALTH and SICKNESS.</head>
+            <byline>By <hi>E. M.</hi> Med. D.</byline>
+            <head type="sub">The Second Impression with a Postcript.</head>
+            <p>THE <hi>Art</hi> of <hi>Physick,</hi> as now improved and inlarged, consists of five Parts: 1. <hi>Physiologic. 2. Pathologic. 3. Semeiotic. 4. Hygiastic. 5. Therapeutick.</hi> The <hi>Therapeutic</hi> is put <hi>last,</hi> in the order for Study and Practice; but is <hi>first</hi> in <hi>Dignity, Antiquity</hi> and <hi>Excellency;</hi> for as much as the two main <hi>Columns,</hi> that support the whole Frame of this Art (<hi>viz. Pharmacy</hi> and <hi>Chyrurgery</hi>) stand in the fifth Division.</p>
+            <p>
+               <hi>Pharmacy,</hi> the invention, preparing and proving of Medicines; gave the <hi>first Being,</hi> and <hi>Name</hi> to Physicians; in this work they were first employed: and <hi>Chirurgery</hi> was the next most <hi>necessary</hi> acquirement; that gave <hi>repute</hi> and <hi>esteem</hi> to the Primitive Professors: and these two are so needful to enable and make a Physician compleat, in the Office of Cu<g ref="char:EOLhyphen"/>ring; that if he be defective in the one, he halts on that side; but if he be devested of the other, he is reduced to nothing; for without Medicines he is useless; and without a cer<g ref="char:EOLhyphen"/>tain knowledge therein, he is unable to perform any true Service to the Sick and diseased; but is an <hi>uncertain</hi> and <hi>unsafe</hi> Practiser.</p>
+            <p>Notwithstanding the grand importance of these two <hi>principal</hi> Parts: First <hi>Chirurgery</hi> was lopt of, and separated from them; afterwards and not long since; <hi>Medicines</hi> were deserted by them; and they reserved only to themselves, the <hi>notional, talking,</hi> and <hi>genteel</hi> part of their Profession: the <hi>motives</hi> thereunto, and feigned <hi>pretences</hi> for that unreasonable de<g ref="char:EOLhyphen"/>sertion, I must wave at present.</p>
+            <p>But take notice, as undeniable (from the Records of <hi>antique</hi> Authors, and by Confession of our <hi>Modern</hi> Writers) that <hi>Medicines</hi> were the <hi>Rise</hi> and <hi>Foundation</hi> of Physicians and their Art; in the <hi>making</hi> and constant management whereof, <hi>Physicians</hi> of the greatest Fame and Eminency, did <hi>Personally</hi> employ themselves, inspecting the preparing and compounding their own <hi>Medicines</hi> diligently at home, to be knowing and expert therein, and to secure their <hi>Art</hi> from <hi>Invasion:</hi> not depending and relying upon the <hi>Care, Skill,</hi> or <hi>Honesty</hi> of Sub<g ref="char:EOLhyphen"/>stitutes, nor any subordinate Men and their Servants, in a perfunctory Shop trading way; but managed all by their own labour, or diligent inspection over their own Servants at home, as greatly concerned for Mans Life; and so careful for providing for the <hi>Sick,</hi> that nothing appertaining to the whole business, but passed through their own <hi>hands,</hi> or managed under their <hi>eye.</hi>
+            </p>
+            <pb n="2" facs="tcp:30769:2"/>
+            <p>This was the <hi>primitive</hi> and <hi>ancient</hi> Practice of Physicians, even those of the greatest Re<g ref="char:EOLhyphen"/>nown (called the <hi>Princes</hi> of physicians) gained their repute and fame by this exemplary and most laudable Practice: <hi>Aesculapius, Hermes Trismegistus, Hippocrat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Diocles, Cari<g ref="char:EOLhyphen"/>stius, Galen, Scribonius Largus, Andromachus, Oribasius,</hi> &amp;c. all the Ancient <hi>Heroes</hi> in Phy<g ref="char:EOLhyphen"/>sick. That it was so, appears by their own works extant; as also from the testimony of au<g ref="char:EOLhyphen"/>thentick Writers; <hi>Joan. Langius▪ Quercitan, Sennertus▪</hi> &amp;c. Inquirers into Antiquities.</p>
+            <p>
+               <hi>Hippocrates</hi> in his Book <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, chargeth all Physicians with the <hi>preparation</hi> of their Medicines, which they ought to have ready in their <hi>own</hi> keeping; and this was dili<g ref="char:EOLhyphen"/>gently observed by all the <hi>Professors,</hi> for many <hi>Centuries</hi> after him. Physicians then were samed by their <hi>Medicines</hi> which they themselves <hi>prepared, practised</hi> with, and <hi>published:</hi> whose own names gave <hi>Titles</hi> to the Medicines of their own invention and making; and to whom the People did resort for their <hi>celebrated</hi> Remedies; for <hi>Names</hi> were not then given to <hi>Medicines</hi> for nothing; but that they might be known <hi>whose</hi> they were, and <hi>where</hi> to be had, for a Publick good. <hi>Praestantissimi medici domi suae suis manibus medicamenta composue<g ref="char:EOLhyphen"/>runt, &amp; suis nominibus insigniverunt.</hi> Sennert. institut. lib. 5. p. 3. Sect. 2. Cap. 1. and this Practice continued so for <hi>many hundred</hi> years, to the ready relief, and publick benefit of the Diseased.</p>
+            <p>And for incouragement to the <hi>Professors</hi> in this so important and necessary work; some studious and learned <hi>Emperours, Kings</hi> and <hi>Princes,</hi> did contribute their experiments and endeavours in <hi>Pharmacy,</hi> whose Medicines, invented by them, bear their Names to this day recorded by Authors of repute. And of such esteem were <hi>Medicines,</hi> that the <hi>Ancients</hi> called them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>deorum manus,</hi> as well they might, for without them, Learning can effect no Cures.</p>
+            <p>Physicians therefore being then very sensible, that Medicines were the most <hi>considerable</hi> part of their Art, they judged that weighty affair, <hi>indispensably</hi> requiring their <hi>personal</hi> at<g ref="char:EOLhyphen"/>tendance upon, and <hi>chiefest</hi> care to manage: a true sense whereof, caused some of our most <hi>ominent</hi> modern Physicians, not to depart from this laudable custom of the <hi>Ancients,</hi> but were industrious and diligent in the Preparation of their Medicines: as <hi>Paracelsus, Libavius, Angelus Sala, Basil. Valentinus, Crollius, Quercitan, Faber, Mynsicht, Hartman, Schroder, Helmont, Swelfier,</hi> &amp;c. Men of great Fame and note.</p>
+            <p>But Physicians of <hi>latter</hi> times gradually declining (being addicted to <hi>ease</hi> and <hi>pleasure</hi>) and our <hi>present</hi> Age more generally revolting from this <hi>necessary</hi> labour, most <hi>hopeful,</hi> and most <hi>helpful</hi> Practice of the primitive Professors, resigning the management and care of Me<g ref="char:EOLhyphen"/>dicines (their proper <hi>duty, mystery</hi> and important charge) into the hands of <hi>Tradesmen;</hi> Me<g ref="char:EOLhyphen"/>dicines thereby <hi>prostituted,</hi> and exposed in a Shop trading way, fell much lower in estima<g ref="char:EOLhyphen"/>tion and repute; now accounted a vulgar <hi>mechanick</hi> employ; that some of our proud <hi>Doctors</hi> (but not the wisest) think Medicines too inferiour for them to meddle with; and some shallow-brain undiscerning People, account it a disparagement and lessning of a Physician to be employed in that work: but the Vanity of such weak Heads, and the Villany of those Revolters, that first betrayed the <hi>Pharmaceutick</hi> Art into a <hi>Trade;</hi> and the many ill conse<g ref="char:EOLhyphen"/>quents that unavoidably attend this <hi>new mode</hi> of prescribing, both as to <hi>Patients</hi> and <hi>Phy<g ref="char:EOLhyphen"/>sicians,</hi> and also a stifling of the <hi>Art</hi> it self; plainly doth appear in a Serious <hi>Tract</hi> Entituled, <hi>The Ancient and modern Practice of Physick, Examined, Stated, and Compared,</hi> By <hi>E. Mayn<g ref="char:EOLhyphen"/>waringe,</hi> Med. D. To which no Answer (though long expected and much desired) as yet hath been given, in defence of their unreasonable innovation, and <hi>Spurious</hi> Practice: for as much as, the <hi>Reason, Arguments</hi> and <hi>Truth</hi> of that Book, bids <hi>defiance</hi> to any Learned, Argumentative, objecting Pen; worth replying to.</p>
+            <p>Illiterate Men▪ of mean and broken Fortunes (taking advantage by this imprudent neg<g ref="char:EOLhyphen"/>lect, and strange <hi>revolt</hi> of the Professors) finding the common People very ready, and easy
+<pb n="3" facs="tcp:30769:2"/> to be catcht with their bate; have craftily and gainfully got the Custom of setting forth their hazardous, or trivial Medicines; whereby some the most knowing and expert Physi<g ref="char:EOLhyphen"/>cians, exercising the <hi>ancient</hi> true Practice, have been discouraged from offering to the World, the <hi>products</hi> of their Art and long Experience in Medicinal Preparations; for fear of <hi>scan<g ref="char:EOLhyphen"/>dal,</hi> and of being accounted in the number of those <hi>Empericks,</hi> by some undiscerning People▪ But if a Man will forbear doing his duty, to serve the publick as he ought, for fear of asper<g ref="char:EOLhyphen"/>sion from prejudiced, ignorant, or ill-minded People; he wants that <hi>resolution</hi> and courage that a good Man should have: for such reflections and discouragements, the <hi>best</hi> of Men will meet with in the <hi>best</hi> of things they shall undertake. If Tradesmen in Physick be your Ene<g ref="char:EOLhyphen"/>mies; if they shall traduce and desame you behind your back, for lessning their trade; regard not their words, they served me so; what then—<hi>tu ne cede malis, sed contra audentior ito.</hi> And if <hi>Quacks</hi> have defamed the custom of publishing a Medicine, it must be restored again into its former just repute, by the <hi>learned</hi> and <hi>legal</hi> Physician: the <hi>abuse</hi> of any thing does not take away, nor ought to hinder the <hi>right</hi> use.</p>
+            <p>And as for diseased Persons, you are willing perhaps, and some very desirous (such as are greatly and dangerously afflicted) that Men of <hi>Art, Industry</hi> and <hi>Learning,</hi> should find out something more <hi>rare</hi> and <hi>excellent,</hi> beyond what is common and indifferent; that may give you the most <hi>expeditious,</hi> and best help, in a difficult and deplorable condition: and who can you expect this extraordinary Medicine from? But from a diligent, industrious Physician, that constantly labours in the various <hi>preparations</hi> and <hi>tryals</hi> of Medicines, to acquire that which may <hi>excel,</hi> and <hi>out do</hi> the common stuff. But when he hath gained such a Medicine, what must he do with it? Conceal it, and keep it by him? or would you in <hi>particular,</hi> have only the benefit of it, and every Body else should be deprived of it? No, you will say, that's incharitable: if every Body then may have the use of it, then every Body that stands in need thereof, must be inform'd of such a Medicine; and how can that be, but by <hi>Print<g ref="char:EOLhyphen"/>ing</hi> and publishing? As Sermons, all manner of Learning, Engines, ingenious Inventions and improvements in all Arts, and Manufacture, that may be useful to the publick, are <hi>Printed</hi> and <hi>Published,</hi> to the praise of the Authors: so likewise may a singular Medicine, that deserves to be made known, for the benefit and relief of many, that languish for <hi>want</hi> thereof: <hi>quae multis valeant, omnibus innotescant.</hi>
+            </p>
+            <p>And it is much the Peoples <hi>interest,</hi> to incourage such industrious <hi>excelling</hi> Physicians, Operators in Medicines; that they may not <hi>confine</hi> their rare elaborate inventions, and suc<g ref="char:EOLhyphen"/>cessful Experiments, within the narrow compass of a <hi>private</hi> Practice, but expose them also to <hi>publick</hi> use. Hereby such as <hi>languish</hi> under that <hi>means,</hi> the places of their abode doth afford, and some perhaps given over as <hi>incurable;</hi> may then be informed of <hi>prevalent</hi> Reme<g ref="char:EOLhyphen"/>dies, and have extraordinary help conveighed to them from far: and those who think it <hi>irksome,</hi> and will not undergo; and some that cannot bear the <hi>Charge</hi> of a course of Physick, with <hi>Doctor</hi> and <hi>Pothecary,</hi> may receive great relief, by a single extraordinary Medicine. And when such Men of the <hi>greatest</hi> knowledge, and <hi>long</hi> experience in various tryals and proofs of Medicines, shall thus produce their comprehensive <hi>Catholicks,</hi> and choice <hi>Speci<g ref="char:EOLhyphen"/>ficks;</hi> a Treasure will be laid open, that, what is most <hi>excelling</hi> and <hi>rare,</hi> will be known and transmitted through the Kingdom, bringing relief to those that <hi>languish</hi> in difficult Cases, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d often <hi>perish</hi> for want of such help. He that picks straws all day, is as serviceable and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eneficial to the publick, as he that studies and labours <hi>many years,</hi> to acquire noble Medi<g ref="char:EOLhyphen"/>cines, and then <hi>conceals</hi> them. <hi>Impium est ea tacere, quae si promulgata essent, multorum mi<g ref="char:EOLhyphen"/>serè decumbentium in levamen extarent.</hi>
+            </p>
+            <p>In imitation therefore of that exemplary, secure, and most knowing practice of the An<g ref="char:EOLhyphen"/>cients; I have been constantly exercised, in the <hi>designing, preparing</hi> and <hi>proving</hi> of Medi<g ref="char:EOLhyphen"/>cines near thirty years: which labour hath been recompenced with a full satisfaction and
+<pb n="4" facs="tcp:30769:3"/> certainty in the various nature of <hi>Drugs</hi> and <hi>Medicines;</hi> not otherwise to be known by Book reading, and speculative Conjectures, then converted into prescripts. <hi>Optimum est majo<g ref="char:EOLhyphen"/>rum sequi vestigia, si rectè praecesserint.</hi> Senec.</p>
+            <p>And having so acquired certain Medicines▪ not <hi>common</hi> and ordinary, I think it necessary to expose some to publick use, such as may be most <hi>generally</hi> helpful, and <hi>chiefly</hi> wanted. And finding the People most frequently complaining of <hi>Scorbutick</hi> humours, that infest them in <hi>several</hi> parts of the Body; (notwithstanding the common traditional Medicines used) and knowing how productive and spreading the <hi>Scurvy</hi> is, causing various alterations in divers parts, complicating with, and aggravating all other infirmities incident to humane Na<g ref="char:EOLhyphen"/>ture; that as the <hi>Solitary</hi> cause, or <hi>complicated</hi> affect, most Diseases may be termed <hi>Scor<g ref="char:EOLhyphen"/>butick</hi> in these Northern Countries.</p>
+            <p>Hence it is, that <hi>Engalenus, Sal. Albertus, Reusner, Langius, Martinus,</hi> and other Emi<g ref="char:EOLhyphen"/>nent Writers, have well noted unto us, how generally the <hi>Scurvey</hi> acts its part, and bears a name in most Diseases: <hi>Scorbutick</hi> Consumptions, <hi>Scorbutick</hi> Dropsies, <hi>Scorbutick</hi> Palsies, <hi>Scorbutick</hi> Gouts, <hi>Scorbutick</hi> Feavours, <hi>Hectick, malignant, Continual,</hi> or intermitting called Agues: <hi>Convulsive</hi> motions, difficult and short breathing, <hi>Lienteric</hi> and <hi>Dysenteric</hi> Fluxes, <hi>Pains</hi> vagrant or fixed, of the <hi>Head, Teeth, Breast, Loins</hi> or <hi>Limbs. Gripes, Cramps, Itching, Spots, Tumors, Ʋlcers:</hi> all these may, and often do arise, from the fertile Seeds of a latent <hi>Scurvey,</hi> not discernable, but to the most sagacious Physician; not <hi>curable,</hi> but with Medi<g ref="char:EOLhyphen"/>cines truly <hi>Antiscorbutick:</hi> all which more at large, is set forth in my Treatise of the <hi>Scurvey.</hi>
+            </p>
+            <p>These Considerations put me upon the most urgent inquiry after, and diligent labour for, the means most powerful to oppose and subdue this secret destroyer of Man's Life, and not to keep the People doing, and undoing them with Physick; as it is now frequently practi<g ref="char:EOLhyphen"/>sed. After various tryals in <hi>Preparation,</hi> and proofs by <hi>Practice</hi> for many years, at last I gained two Medicines (now perfected, and more compleat than formerly) which I shall recommend to all Persons afflicted with any <hi>Scorbutick</hi> Symptom, or other Disease compli<g ref="char:EOLhyphen"/>cated with the Scurvey, made obstinate, and exasperated by their Conjunction. The first is a solid Extract made up into the form of Pills, for more ready, easy, and convenient ta<g ref="char:EOLhyphen"/>king: the other is liquid, digested, impregnated and spiritalized into an Elixir; not as some cheating <hi>Quacks</hi> have falsly titled their Medicines, which are not so; nor do they know what an Elixir is.</p>
+            <p>These two Medicines are proved to be the most useful, easy, and best expedient to pre<g ref="char:EOLhyphen"/>vent, allay, and subdue this difficult <hi>Protean</hi> Disease the <hi>Scurvey,</hi> with its dependants and complicated affects: restoring such as have long lingered under the tedious use of common traditional Medicines. The <hi>Pills</hi> are the best <hi>preservative</hi> to keep the Body clean: The Elixir to roborate and strengthen the <hi>faculties,</hi> that are declining and deviating from the performance of their several functions. The Pills may be taken very well without the <hi>Elixir,</hi> if the case require not the use of both: but when both are used they are a compleat Course.</p>
+            <p>The <hi>Scorbutick Pills</hi> are purgative and diuretick in their Operation; working upon all <hi>Scorbutick,</hi> indigested and corrupt humours, carrying them forth by <hi>Stool</hi> and <hi>Ʋrine:</hi> radi<g ref="char:EOLhyphen"/>cally cleansing and purifying the Body, as the most useful and necessary Medicine in all Cases and Courses of Physick, requiring <hi>purgation</hi> and <hi>urinary</hi> Evacuation; which operations rarely are omitted.</p>
+            <p>They open obstructions of the <hi>Liver</hi> and <hi>Spleen, Pancreas, Mesentery</hi> and <hi>Bowells;</hi> gently searching, cleansing, and eradicating, not only the <hi>Scurvey,</hi> but also bringing forth the <hi>seminal</hi> matter of other Diseases. <hi>Quali humore quisquis abundaverit, sumpto hoc pharmac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> purganti; talis evacuatur.</hi>
+            </p>
+            <pb n="5" facs="tcp:30769:3"/>
+            <p>They relieve the <hi>Head, Breast</hi> and <hi>Stomach,</hi> oppressed, pained, or otherwise ill affected: clear<g ref="char:EOLhyphen"/>ing the <hi>Canals</hi> and ductures of Communication; leading to and from the several parts of the Body, for conveyance and mutual assistance.</p>
+            <p>They evacuate <hi>watery, salt, itching, corroding, putrid</hi> and <hi>ulcerating</hi> humours; hereby the humoral Causes of <hi>Tumors, Pains, Stitches, Gripes, Fluxes, Fumes</hi> and <hi>Flatulency,</hi> are remo<g ref="char:EOLhyphen"/>ved and carried off.</p>
+            <p>Very good to ease and bring down swell'd, <hi>Hydropic,</hi> or Gouty <hi>Limbs,</hi> and to promote the healing of all <hi>Sores;</hi> diverting and drawing off the noxious humours flowing thither.</p>
+            <p>They cleanse the <hi>Kidneys</hi> and urinary passages, from <hi>sand</hi> and <hi>gravel,</hi> useful and advan<g ref="char:EOLhyphen"/>tageous for such as are inclined to, or troubled with the Stone.</p>
+            <p>These good effects are thus performed by a wholesome vegetable Extract formed into Pills; operating pleasantly and safely with <hi>young</hi> or <hi>aged,</hi> Women with Child, and the weakest Bodies. I need not name all the Diseases this Medicine is proper for, and adapted to; since I have given an account of the <hi>Causes</hi> almost of all Diseases, and to them this Me<g ref="char:EOLhyphen"/>dicine does efficaciously and sitly apply: the humoral Causes therefore being thus taken away, you may then reasonably think the various Diseases bred from thence, must necessa<g ref="char:EOLhyphen"/>rily be removed also, as the Patient is capable: and although <hi>Diseases</hi> are very numerous, and much different by their <hi>names,</hi> from Parts affected, and other Circumstances; yet are they not a quarter so many in their <hi>causes;</hi> several of them may be sorted together, as ari<g ref="char:EOLhyphen"/>sing from one root; and will require the same Curing Medicines: <hi>Morbi multi unico re<g ref="char:EOLhyphen"/>medio curantur; cujuslibet enim membri plaga, non habet peculiarem semper causam; sed ab uno eodem{que} exiguo licet semine, plures surgunt affectus;</hi> but most People must have a <hi>several</hi> Me<g ref="char:EOLhyphen"/>dicine, or Medicines, for every complaint that they have a name for; else they think it not possible to cure them, and rediculous to attempt it: but a <hi>Prescriber</hi> does humour their Fancies; he spares not <hi>Ink</hi> and <hi>Paper,</hi> and gives the People as many Medicines as they please. If you can perswade your Patients thus to take Medicines confidently from your <hi>hand writing,</hi> without any other care or pains; and make them think they are well provided for; 'tis a fine easy <hi>Practice</hi> and well for you; but not so <hi>safe,</hi> and well for <hi>them.</hi> A Medi<g ref="char:EOLhyphen"/>cine from a Physicians <hi>hand,</hi> is more secure, is much better than from his <hi>hand Writing;</hi> but the Prescriber lives <hi>genteelly,</hi> and the Patient (attended with <hi>Doctor</hi> and <hi>Pothecary</hi>) dies <hi>gen<g ref="char:EOLhyphen"/>teelly,</hi> with the great Formalities of Physick; this therefore must needs be, a very <hi>genteel</hi> new mode of Practice: But to let pass at this time, what more is to be said, and that is much: but to return, for directing the right use of the <hi>Scorbutick Pills:</hi> and first the Dose is to be known.</p>
+            <p>A <hi>Dose</hi> is the due quantity of a Medicine to be taken at once, or for one operation: And because Bodies differ very much in point of Purging; as some are very easy, others hard to purge, and this is not to be foreknown but by tryal; therefore begin with a small Dose, and try the Nature of your Body; afterwards encrease your Dose, as the Condition and strength of Body requires; remembring that <hi>six</hi> or <hi>seven</hi> Stools in a day is enough: for gentle purg<g ref="char:EOLhyphen"/>ing, and oftner taking, calmly collecting and drawing forth the peccant humours, is much better, than forcibly hurrying out both good and bad together. <hi>Eradicativa evacuatio opti<g ref="char:EOLhyphen"/>mè per plures evacuationes minorativas perficitur.</hi> Begin with two Pills, next time thr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and having then tryed your Body with the strength of the Medicine, you may afterwards in<g ref="char:EOLhyphen"/>crease or abate in the Dose; as your case requires to have them work more or less.</p>
+            <p>Take them every other night going to Bed, for three or four Nights; then rest a Week, and you may take again in like manner; if your Disease be obstinate, or foulness of Body so require. The next Morning after Pills taking, drink some Posset, or warm Ale; or Whey in the Summer Season. And thus you may do in the Dog▪ Days, or Frosty Weather▪ with safety and benefit, if occasion urgeth; only ordering your self suteably to the Season: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd this take notice of, that you may <hi>sleep</hi> at any time of the day between the working, if <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u be so inclined; for rest and ease promotes the operation best.</p>
+            <pb n="6" facs="tcp:30769:4"/>
+            <p>Some there are that will take a <hi>Dose</hi> of <hi>Pills,</hi> once in a Week, a Fortnight, or a Month; and think that may be sufficient to Cure them; that truly may do some good, and yet but <hi>little,</hi> towards a difficult Cure, and you cannot in reason expect more; if your Infirmities be considerable: for the first <hi>Dose</hi> only empties the <hi>Guts;</hi> but the second, third, and fourth, do the Execution; drawing out from all parts of the Body. But if you take for <hi>prevention</hi> only; to keep your <hi>Stomach</hi> and <hi>Bowels</hi> clean, and in good condition; I do not discommend you to take now and then, though at a distance. And therefore some Persons, that from their <hi>experience</hi> prize this Medicine, above the ordinary and common sort; have these <hi>Pills</hi> ready in their keeping, that they may not want them in time of need; being a ready help for such as live in the Country, or travel by Sea, or Land: they being so convenient for Carriage, and so <hi>durable</hi> in their Virtues, for many years. And you that live where <hi>Physick</hi> is plenty, and easy to be had, yet such a Medicine you may not procure, although you give your Gold for the Advice.</p>
+            <p>The Restoring <hi>Elixir,</hi> is a different Medicine from the former, and performs another operation, very useful in all the debilities and deviations of Nature from her right course; reducing the principal Faculties defective or weak, and restoring them to vigour and recti<g ref="char:EOLhyphen"/>tude.</p>
+            <p>This Medicine is frequently used with the <hi>Scorbutick Pills,</hi> for as they by <hi>purging</hi> carry off the impurities and noxious humours, that oppress, clog, obstruct and hinder the functions of several parts of the Body, from performing their duties; So this <hi>Elixir</hi> is pro<g ref="char:EOLhyphen"/>per to <hi>quicken, strengthen</hi> and <hi>raise</hi> up those Faculties that are languid and weak, to <hi>rectifie</hi> and <hi>reinforce</hi> them, when declining and deviating; giving an additional strength, for re<g ref="char:EOLhyphen"/>ducing them again, in the true execution of their Offices. This <hi>Elixir</hi> raiseth a decayed Appetite, strengthens the <hi>Digestions,</hi> restores weak <hi>Parts,</hi> refresheth and fortifies the <hi>Spirits,</hi> resists <hi>Melancholy,</hi> helps <hi>old Age, Consumptive,</hi> and <hi>sickly</hi> Persons. This much promotes a Cure, confirms it afterwards, and secures from relapsing. <hi>Natura corroborata est Morbo<g ref="char:EOLhyphen"/>rum Mediatrix:</hi> Says <hi>Helmont.</hi>
+            </p>
+            <p>It is not needful to name all the particular Cases and Diseases wherein this <hi>Elixir</hi> is useful; since I have given you the main intention, and general scope of its operations; namely strengthening and restoring. People of reason and understanding, by what is said, may know when they want it, and when to use it; and for others, it is in vain to inform such.</p>
+            <p>The <hi>manner</hi> and <hi>times</hi> of taking the <hi>Elixir</hi> is thus: It is to be taken every <hi>intermitting</hi> day between purging, and after purgation is over; then you may take it every day, so long as you find it convenient and helpful. A Man or Woman must begin with twenty <hi>drops</hi> the <hi>first day,</hi> thirty the <hi>second,</hi> and forty the <hi>third;</hi> Continuing that <hi>Dose</hi> afterwards. For Children you may proportion it according to their Age. Take it Mornings, fasting two or three hours after: also at five a Clock Afternoon, in a Spoonful of good <hi>Canary, Sherry,</hi> or <hi>Rhenish:</hi> but if those be wanting, then in good <hi>French</hi> Wine. You may go abroad, or ride after it, any time of the year, if <hi>Strength</hi> of Body permits.</p>
+            <p>These two Medicines I frequently use in <hi>Practice;</hi> and which are the <hi>result</hi> and <hi>perfection</hi> of many years labour and experience: and others may have the same that live far off, for sending: but if they can procure as good nearer hand▪ it will be very well; but I doubt they will fall short, and miss of their hopes (though they give a good <hi>Fee</hi> for the purchace) and to be frustrated herein, is a great disappointment: for <hi>Medicines</hi> nearly concern Man's <hi>Health,</hi> and his Life; that preserves and restores the one, and saves the other (as the means) from being lost. <hi>Medicines</hi> therefore being of so great importance, there cannot be too much care and pains; for procuring <hi>that</hi> which excels the rest.</p>
+            <p>And since the <hi>worth</hi> of a Medicine is not to be known but by <hi>trial</hi> and <hi>use;</hi> the only guide
+<pb n="7" facs="tcp:30769:4"/> and help you have in that choice is the <hi>credit</hi> of the Author; his Learning, long Experi<g ref="char:EOLhyphen"/>ence in the Preparations of Medicines; and practice therewith: such a Man you may trust, but there are not many of them to be sound; where you meet with him, you may <hi>prize</hi> him: you must not seek him among the Tribe of <hi>Prescribers;</hi> that make and give out Medicines, only upon a piece of Paper; that's an Unskilful, Unsafe, and Unwarranted Practice; al<g ref="char:EOLhyphen"/>though supported and used by men of good learning; but for all that, I must say, and will stand by it, that all the <hi>Learning</hi> they can muster up, cannot maintain and justifie that Pra<g ref="char:EOLhyphen"/>ctice; for <hi>Learning</hi> and great <hi>Reason</hi> directs and appoints otherwise.</p>
+            <p>Some people there are that inquire after, and give ear to Medicines of alluring, great, and high <hi>Titles:</hi> Infallible <hi>Elixirs,</hi> Never failing <hi>Cordialls;</hi> Pills of <hi>wonderful</hi> operations; and such like delusions put forth by boasting <hi>Quacks:</hi> and these the <hi>vulgar</hi> are fond of, and vainly believe: for which folly they sometimes pay dear, and repent when it is too late; having lost the opportunity of Cure: but for the Masters of that great Art, that deserve to be ex<g ref="char:EOLhyphen"/>alted; a <hi>Pillory</hi> may be thought the fittest reward for such <hi>wonderful</hi> Medicine-makers. But now I think of it again, they may well be called <hi>wonderful</hi> Medicines; for some of these <hi>Boasters</hi> and great <hi>Lyars,</hi> have gained some thousands of pounds, with a mean, trifling Me<g ref="char:EOLhyphen"/>dicine in a short time; which many a good Physician could never do, with all his Learning, and Industry in practice, all his Life. But he that sets up for a <hi>Cheat,</hi> is the likeliest Man to thrive: these then must needs be <hi>wonderful</hi> Medicines, that work such <hi>wonderful</hi> effects. And that so many people should be imposed upon, their sense and reason <hi>deluded</hi> by a sort of Men <hi>ignorant</hi> and <hi>unskilful</hi> in this profound <hi>Art:</hi> that's another wonder wrought by those <hi>stupen<g ref="char:EOLhyphen"/>dious</hi> Medicines; so that now I am satisfied; they had not their great Titles and wonderful Names for nothing.</p>
+            <p>These Inferences may be drawn from hence. First, That there are more <hi>Fools</hi> in the World than <hi>wise</hi> People: and they that humour and adhere to the <hi>foolish</hi> Party, are the greatest gainers. Secondly, That lying and <hi>cheating</hi> gets more oftentimes, than <hi>learned</hi> industry and <hi>upright</hi> dealing. Thirdly, That the <hi>improbability</hi> and <hi>unfitness</hi> of Undertakers to perform such great and <hi>strange</hi> pretensions; begets Admirers, Followers after, and pro<g ref="char:EOLhyphen"/>vers of their Rarities. Fourthly, That <hi>requisite</hi> and <hi>fit</hi> qualifications, likely to perform what is promised in <hi>Art;</hi> this being no <hi>wonder,</hi> makes no <hi>noise,</hi> and therefore not so much regarded. Fifthly, That it is a doubtful thing, whether long Study, and great Industry to attain the Character of Skillful; will then make a <hi>rich</hi> Man, or a poor compleat Artist.</p>
+            <p>But notwithstanding all these <hi>doubts,</hi> discouragements, and <hi>difficulty</hi> of the People; he that labours in his Station by <hi>true</hi> steps, sincerely pursuing the welfare and safety of <hi>others,</hi> by the most <hi>acquirable best</hi> means; may expect some satisfaction <hi>here,</hi> or reward here<g ref="char:EOLhyphen"/>after.</p>
+            <epigraph>
+               <q>Non ut placeat; sed ut profit.</q>
+            </epigraph>
+            <closer>
+               <dateline>From my House in <hi>Old Southampton Buildings</hi> over against <hi>Grays-Inn,</hi>
+                  <date>Nov. 10. 1689.</date>
+               </dateline>
+               <signed>E. Maynwaringe.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:30769:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>HAving lived in <hi>Ireland</hi> many Years since; where observing the <hi>Endemical</hi> Disease of that Country, which commonly begins <hi>Lienteric,</hi> and makes its Transition into a <hi>Dysentery</hi> or <hi>Bloody Flux;</hi> the Disease proving fatal to many; especially to those that have not been accustomed to that <hi>Air</hi> and <hi>Food:</hi> which Alteration caused a languishing Sickness, and the Death of many in <hi>Cromwel</hi>'s Army. And now in this Juncture, there is more need for ex<g ref="char:EOLhyphen"/>traordinary Physical Help; fresh Men going over, and being more exposed in War, to ir<g ref="char:EOLhyphen"/>regular Living, than at other times in Peace: I thought my self obliged not to conceal the prevalent Assistance and Help which may be given to all such as are <hi>seized</hi> with that <hi>Disease,</hi> or desire to <hi>prevent</hi> it: and that by the use of a single <hi>Medicine,</hi> sufficiently proved, and approved with great Esteem. For its Certainty, Safety, Innocency, and Pleasantness of Operation, I judge (by the Proofs already given) it will <hi>exceed</hi> all <hi>Medicines,</hi> as yet found out. It checks the Orgasmus, and allays the turgid Fermentation of Humours; soon takes off <hi>Gripes</hi> and <hi>Pains,</hi> ceaseth the <hi>Flux,</hi> and <hi>heals</hi> excoriated Bowels. It is small in Bulk, light for Carriage, alwaies ready for Use, durable in Virtue seven Years. The most com<g ref="char:EOLhyphen"/>modious, expedite, and powerful Means, <hi>Preventive</hi> and <hi>Curative,</hi> for <hi>Army</hi> and <hi>Navy;</hi> beyond the usual Accommodation.</p>
+            <p>I might inlarge upon the Character of this <hi>Medicine,</hi> but shall forbear until it be requi<g ref="char:EOLhyphen"/>red by <hi>Authority;</hi> or desired by <hi>Private Persons;</hi> to whom I shall give <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> further, and more particular Account of its comprehensive Power, and efficacious Adaptness to other Cases, from the <hi>Experience</hi> I have had thereof in Practice.</p>
+            <epigraph>
+               <q>Arbor à Fructibus; Artifex ab Operibus; &amp; Medicus per Medicamenta optimè dignoscitur.</q>
+            </epigraph>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Treatise of the <hi>Scurvey:</hi> Shewing the various Nature, and <hi>Cure</hi> of that <hi>Disease.</hi> By <hi>Everard Maynwaringe,</hi> Dr. in <hi>Physick.</hi>
+            </p>
+            <p>The History and Mystery of the <hi>Venereal Lues, Gonorrhoea</hi>'s, <hi>&amp;c.</hi> Resolving the <hi>Doubts</hi> and <hi>Fears</hi> of such as are surprised with this secret perplexing <hi>Malady,</hi> &amp;c.</p>
+            <p>A Treatise of <hi>Consumptions, Scorbutick Atrophies, Hectick Feavers, Phthises, Spermatick</hi> and <hi>Venereous</hi> wasting, <hi>&amp;c.</hi>
+            </p>
+            <p>Of <hi>Pains, Inflammations, Tumours, Apostems, Ʋlcers, Cancers, Gangrens,</hi> and <hi>Mortifications,</hi> internal. Therein shewing the secret Causes and course of many <hi>Chronick</hi> and <hi>Acute</hi> Mortal Diseases, rarely discerned. With a Tract of <hi>Fontinels</hi> or <hi>Issues,</hi> and <hi>Setons.</hi>
+            </p>
+            <p>The Compleat <hi>Physician,</hi> qualified and dignified; the <hi>Rise</hi> and <hi>Progress</hi> of Physick, illustrated: Physicians of different <hi>Sects</hi> and <hi>Judgments</hi> distinguished.</p>
+            <p>The <hi>Ancient</hi> and <hi>Modern</hi> Practice of Physick, Examined, Stated and Compared: The <hi>Preparation</hi> and <hi>Custody,</hi> of Medicines; (as it was the <hi>Primitive</hi> Custom) asserted and proved to be the <hi>proper</hi> charge, and <hi>grand</hi> Duty of every <hi>Physician</hi> successively, <hi>&amp;c.</hi>
+            </p>
+            <p>Inquiries into Medicines: <hi>Catholick, Specifick,</hi> and <hi>Appropriate:</hi> Their different Operations and Extensions, Shewing the <hi>excellency</hi> of the two former; the <hi>uncertainty</hi> and <hi>hazard</hi> of the last, conjecturally adapted to Person and Case, <hi>&amp;c.</hi>
+            </p>
+            <p>The Method and Means of enjoying <hi>Health, Vigour,</hi> and long <hi>Life:</hi> Demonstrated from the Causes of <hi>Abbre<g ref="char:EOLhyphen"/>viation</hi> and <hi>Prolongation▪</hi>
+            </p>
+            <p>All writ by the same Author.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed and Entered according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Thomas Basset,</hi> at the <hi>George</hi> in <hi>Fleetstreet;</hi> and <hi>Thomas Horne,</hi> at the <hi>South-Entrance</hi> of the <hi>Royal-Exchange:</hi> 1689.</p>
+            <pb facs="tcp:30769:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
